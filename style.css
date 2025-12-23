@@ -1,0 +1,15 @@
+
+  table {
+    border-collapse: collapse;
+  }
+  td {
+    width: 25px;
+    height: 25px;
+    border: 4px solid black;
+  }
+
+  .white { background: white; }
+  .red { background: #e6392d; }
+  .yellow { background: #f6dd5c; }
+  .blue { background: #1428c9; }
+  .black { background: black; }
